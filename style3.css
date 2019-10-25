@@ -1,0 +1,64 @@
+#header 
+{
+	color: white;
+	background-color: #0000ff;
+	border-bottom: 5px solid black;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	clear: both;
+}
+
+#header h1
+{
+	font-family: "Times New Roman";
+	font-size: 4em;
+}
+
+#header h2
+{
+	font-size: 2em;
+}
+
+#footer
+{
+	background-color: #6666ff;
+	border-top: 5px solid black;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	font-family: "Courier";
+}
+
+.menu
+{
+	/* font-size: 100px; */
+	float: left;
+	height: 100%;
+	width: 150px;
+	background-color: #4d4dff;
+	border-right: 5px solid black;
+}
+
+.menu p
+{
+	border-bottom: 1px solid black;
+}
+
+a#home
+{
+	font-size: larger;
+}
+
+.link
+{
+	color: black;
+	color-visited: red;
+}
+
+.main
+{
+	/* float: right; */
+}
