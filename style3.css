@@ -56,7 +56,11 @@ a#home
 .link
 {
 	color: black;
-	color-visited: red;
+}
+
+.link:visited
+{
+	color: white;
 }
 
 .main
