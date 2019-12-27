@@ -41,29 +41,25 @@ footer
 .menu
 {
 	/* font-size: 100px; */
-	float: right;
-	height: 100%;
-	width: 150px;
+	/* float: right; */
+	/* min-height: 100%; */
+	/* width: 150px; */
 	background-color: #4d4dff;
-	border-left: 5px solid black;
+	/* border-left: 5px solid black; */
 	border-bottom: 5px solid black;
 	/* display: inline-block; */
 }
 
-.menu p
+.menu span
 {
+	font-size: 25px;
 	border-bottom: 1px solid black;
-	text-indent: 10px;
+	/* text-indent: 10px; */
 }
 
 .main p
 {
 	text-indent: 50px;
-}
-
-a#home
-{
-	font-size: larger;
 }
 
 .link
